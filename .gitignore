@@ -1,0 +1,21 @@
+
+# Created by https://www.toptal.com/developers/gitignore/api/database
+# Edit at https://www.toptal.com/developers/gitignore?templates=database
+
+### Pessoal ###
+SQLiteStudio/
+oreilly_getting_started_with_sql-master/
+*.csv
+*.pdf
+*.exe
+*.txt
+
+### Database ###
+*.accdb
+*.db
+*.dbf
+*.mdb
+*.pdb
+*.sqlite3
+
+# End of https://www.toptal.com/developers/gitignore/api/database
